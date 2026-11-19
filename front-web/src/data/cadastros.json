@@ -1,0 +1,41 @@
+{
+  "usuario": {
+    "nome": "Marcela da Silva",
+    "idade": "78 anos",
+    "sexo": "Feminino",
+    "celular": "(11) 91111-1111",
+    "cep": "04513-000",
+    "endereco": "Rua das Flores, 120",
+    "complemento": "Casa 2",
+    "mora": "Sozinha",
+    "cuidado": "usa bengala, anda devagar",
+    "alergia": "Dipirona",
+    "doenca": "pressão alta e diabetes",
+    "remedio": "pressão (08h e 20h), diabetes (almoço)"
+  },
+  "cuidador": {
+    "nome": "Ana",
+    "parentesco": "Filha de Marcela",
+    "sexo": "Feminino",
+    "celular": "(11) 92222-2222",
+    "cep": "04513-000",
+    "bairro": "Vila Nova"
+  },
+  "voluntario": {
+    "nome": "Carlos",
+    "sexo": "Masculino",
+    "celular": "(11) 93333-3333",
+    "cep": "04513-000",
+    "bairro": "Vila Nova",
+    "desde": "Nov. 2026",
+    "distancia": "1 km",
+    "horarios": [
+      "Manhã",
+      "Tarde"
+    ],
+    "carona": false,
+    "agua": true,
+    "visita": true,
+    "disponivel": true
+  }
+}

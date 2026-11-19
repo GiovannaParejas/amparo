@@ -1,0 +1,29 @@
+{
+  "voce": [-23.5925, -46.6719],
+  "lugares": [
+    {
+      "numero": 1,
+      "nome": "Centro Comunitário",
+      "descricao": "Lugar fresco | 400 m - Aberto até 20h",
+      "tags": ["Rampa", "Banheiro adaptado", "Água"],
+      "posicao": [-23.5913, -46.6732],
+      "cor": "#155E57"
+    },
+    {
+      "numero": 2,
+      "nome": "UBS Vila Nova",
+      "descricao": "Ponto de água | 200 m",
+      "tags": ["Água gelada", "Banheiro"],
+      "posicao": [-23.5930, -46.6705],
+      "cor": "#F2A93B"
+    },
+    {
+      "numero": 3,
+      "nome": "Centro Seguro",
+      "descricao": "Abrigo de chuva | 300 m",
+      "tags": ["Rampa", "Cobertores"],
+      "posicao": [-23.5934, -46.6733],
+      "cor": "#1B2422"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 3 44 40" width="64" height="58" role="img" aria-label="Amparo">
+  <path d="M6 22 L24 7 L42 22" fill="none" stroke="#155E57" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="26" r="6" fill="#F2A93B"/>
+  <path d="M7 31 Q24 46 41 31" fill="none" stroke="#155E57" stroke-width="6" stroke-linecap="round"/>
+</svg>

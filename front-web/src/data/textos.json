@@ -1,0 +1,22 @@
+{
+  "usuario": {
+    "calor": ["Beba água mesmo sem sede", "Use roupas leves e claras", "Fique no cômodo mais fresco", "Não saia entre 11h e 16h", "Molhe os pulsos e a nuca"],
+    "chuva": ["Não atravesse rua alagada", "Fique longe de árvores e postes", "Tire aparelhos da tomada", "Deixe lanterna e remédios à mão", "Se a água subir, vá para o alto"]
+  },
+  "voluntario": {
+    "calor": ["Leve a pessoa para o lugar mais fresco da casa", "Ofereça água aos poucos, sem forçar", "Molhe os pulsos, a nuca e o rosto", "Fique com ela até ela se sentir melhor"],
+    "chuva": ["Ajude a sair de áreas alagadas", "Tire os aparelhos da tomada", "Leve para um lugar alto e seco", "Fique longe de fios caídos"],
+    "samu": ["Ligue 192 se a pessoa estiver confusa", "Se não acordar direito", "Se tiver falta de ar", "Se a pele estiver muito quente e seca"]
+  },
+  "comoUsar": [
+    "Todo dia, você recebe um aviso sobre o clima",
+    "Se aparecer um alerta, toque em \"Estou bem\"",
+    "Se precisar de ajuda, segure o botão vermelho",
+    "Seus contatos são avisados na hora"
+  ],
+  "comoChegar": [
+    "Saia de casa e vire à direita",
+    "Siga até a padaria, 2 quarteirões",
+    "Vire à direita. A entrada tem rampa"
+  ]
+}

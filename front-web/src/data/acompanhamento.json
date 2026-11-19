@@ -1,0 +1,13 @@
+{
+  "etapas": [
+    { "rotulo": "A caminho", "titulo": "Seu Carlos chega em 8 minutos.", "texto": "Ele é voluntário e mora a 300 m da Marcela", "cor": "bg-amarelo-claro" },
+    { "rotulo": "No local", "titulo": "Seu Carlos chegou!", "texto": "Ele está com a Marcela agora", "cor": "bg-amarelo-claro" },
+    { "rotulo": "Concluído", "titulo": "Marcela está bem!", "texto": "Seu Carlos deu água e ficou com ela num cômodo fresco", "cor": "bg-verde-claro" }
+  ],
+  "eventos": [
+    { "nome": "Alerta de calor sem resposta", "espera": "14h20", "feito": "14h20" },
+    { "nome": "Seu Carlos aceitou ir", "espera": "14h31", "feito": "14h31" },
+    { "nome": "Seu Carlos chegou", "espera": "Previsto para 14h39", "feito": "14h39" },
+    { "nome": "Marcela está bem", "espera": "Aguardando", "feito": "14h45" }
+  ]
+}
